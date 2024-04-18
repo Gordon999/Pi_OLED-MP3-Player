@@ -56,7 +56,7 @@ and then
  
  reboot
 
- setup audio output as required.
+ setup audio output as required. I use the RaspiOS GUI, right click on the loudspeaker icon and choose the required audio output.
 
  setup wifi connection if required.
 
