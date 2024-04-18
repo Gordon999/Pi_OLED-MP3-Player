@@ -64,6 +64,8 @@ and then
 
 sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
 
+add...
+
 @sudo /usr/bin/python3 /home/USERNAME/Pi_OLED_MP3_Player.py
 
 Then press ctrl & X, and then Y and enter.
