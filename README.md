@@ -62,5 +62,13 @@ and then
 
  to run at boot add /usr/bin/python3 /home/USERNAME/Pi_OLED_MP3_Player.py to /etc/xdg/lxsession/LXDE-pi/autostart
 
+sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
+
+@sudo /usr/bin/python3 /home/USERNAME/Pi_OLED_MP3_Player.py
+
+Then press ctrl & X, and then Y and enter.
+
+reboot 
+
 
 
