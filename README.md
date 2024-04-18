@@ -58,7 +58,7 @@ and then
 
  setup audio output as required. I use the RaspiOS GUI, right click on the loudspeaker icon and choose the required audio output.
 
- setup wifi connection if required.
+ setup wifi connection if required for radio.
 
  to run at boot add /usr/bin/python3 /home/USERNAME/Pi_OLED_MP3_Player.py to /etc/xdg/lxsession/LXDE-pi/autostart
 
