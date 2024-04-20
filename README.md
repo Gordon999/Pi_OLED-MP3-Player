@@ -68,6 +68,8 @@ add...
 
 @sudo /usr/bin/python3 /home/USERNAME/Pi_OLED_MP3_Player.py
 
+( change USERNAME to your login name)
+
 Then press ctrl & X, and then Y and enter.
 
 reboot 
